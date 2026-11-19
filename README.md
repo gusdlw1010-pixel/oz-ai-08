@@ -1,4 +1,4 @@
-# OZ AI health Care BootCamp 08
-## Topics : 
+# OZ AI Health Care BootCamp 08
+## Topics  
 - Git
-- Github
+- GitHub
